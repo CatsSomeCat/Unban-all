@@ -12,7 +12,11 @@ Before running the app you will need to install all the requirements with this c
 
 ```
 python3 -m pip install -r requirements.txt
+```
+```
 python -m pip install -r requirements.txt
+```
+```
 py -3 -m pip install -r requirements.txt
 ```
 
@@ -20,7 +24,11 @@ After that you can start it with
 
 ```
 python3 main.py
+```
+```
 python main.py
+```
+```
 py -3 main.py
 ```
 
