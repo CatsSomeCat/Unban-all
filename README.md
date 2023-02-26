@@ -1,5 +1,5 @@
 <h1 align="center">UnBan All</h1>
-A program with a user interface written in Python that makes it easy for the user to unban people!
+A program with a graphical user interface written in Python that makes it easy for the user to unban people!
 <img src="https://cdn.discordapp.com/attachments/617018815771050020/1079388356665938010/image.png">
 
 ## Setup
