@@ -8,7 +8,7 @@ To start the app you simply need to launch, either your terminal (Linux, Mac & W
 Windows)
 .
 
-Before running the bot you will need to install all the requirements with this command:
+Before running the app you will need to install all the requirements with this command:
 
 ```
 python3 -m pip install -r requirements.txt
