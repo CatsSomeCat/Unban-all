@@ -27,8 +27,8 @@ py -3 main.py
 
 If you have any issues or questions you can contact me on discord:
 
-* Discord Server : https://discord.gg/vDQ5u64fbw
+* Discord Server : https://discord.gg/itz
 * Username & Discriminator : CatsSomeCat#4026
-* Issue [here](https://github.com/CatsSomeCat/Unban-all/issues)
+* Issues https://github.com/CatsSomeCat/Unban-all/issues
 
 Me or my friends will take their time to answer and help you
