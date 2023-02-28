@@ -41,3 +41,5 @@ If you have any issues or questions you can contact me on discord:
 * Issues https://github.com/CatsSomeCat/Unban-all/issues
 
 Me or my friends will take their time to answer and help you
+
+Also thanks to NEO#7889 for helping me out ❤️
